@@ -13,6 +13,7 @@ main {
     justify-content: center;
     align-items: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    flex-wrap: wrap;
 }
 
 .left-login {
@@ -23,6 +24,7 @@ main {
     align-items: center;
     flex-direction: column;
     text-align: justify;
+    flex-wrap: wrap;
 }
 
 .left-login h1 {
